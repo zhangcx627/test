@@ -2,15 +2,15 @@ PODS:
   - ZCXTest (0.1.0)
 
 DEPENDENCIES:
-  - ZCXTest (from `../`)
+  - ZCXTest
 
-EXTERNAL SOURCES:
-  ZCXTest:
-    :path: "../"
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ZCXTest
 
 SPEC CHECKSUMS:
-  ZCXTest: c9dcdf45b7bc87bd88cd4d5e170fec98b1ef8335
+  ZCXTest: 6aa2ed267ad35c39fb70b915c9de4cbc522f55df
 
-PODFILE CHECKSUM: 877ef2fb889e158021af0fecdc27bc8266e98410
+PODFILE CHECKSUM: 6cb561b4e13d7ddf24c42f5ea4aadf3d099446e7
 
 COCOAPODS: 1.5.3

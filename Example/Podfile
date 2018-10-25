@@ -1,7 +1,7 @@
 use_frameworks!
 
 target 'ZCXTest_Example' do
-  pod 'ZCXTest', :path => '../'
+  pod 'ZCXTest'
 
   target 'ZCXTest_Tests' do
     inherit! :search_paths
