@@ -1,0 +1,16 @@
+PODS:
+  - ZCXTest (0.1.0)
+
+DEPENDENCIES:
+  - ZCXTest (from `../`)
+
+EXTERNAL SOURCES:
+  ZCXTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZCXTest: c9dcdf45b7bc87bd88cd4d5e170fec98b1ef8335
+
+PODFILE CHECKSUM: 877ef2fb889e158021af0fecdc27bc8266e98410
+
+COCOAPODS: 1.5.3
